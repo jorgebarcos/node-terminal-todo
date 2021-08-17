@@ -18,7 +18,7 @@ const leerDB = () => {
 
     const data = JSON.parse(info)
 
-    console.log(data);
+    // console.log(data);
 
     return data
 }
